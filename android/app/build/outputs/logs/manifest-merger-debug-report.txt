@@ -1,0 +1,312 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:@react-native-community_async-storage] /Users/const/Documents/Feture/Movie/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-image-crop-picker] /Users/const/Documents/Feture/Movie/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-28:12
+MERGED from [:react-native-device-info] /Users/const/Documents/Feture/Movie/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-22:12
+MERGED from [:react-native-splash-screen] /Users/const/Documents/Feture/Movie/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-orientation] /Users/const/Documents/Feture/Movie/node_modules/react-native-orientation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-video] /Users/const/Documents/Feture/Movie/node_modules/react-native-video/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/const/Documents/Feture/Movie/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/const/Documents/Feture/Movie/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/const/Documents/Feture/Movie/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.4] /Users/const/.gradle/caches/transforms-1/files-1.1/react-native-0.59.4.aar/e9629186400dc15e81b9fa7f79e4e552/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/const/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/3b22ff764bd2986f966685f6bf28d0ff/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8787fa986027b5a2a89a528330fb3681/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-linear-gradient] /Users/const/Documents/Feture/Movie/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /Users/const/.gradle/caches/transforms-1/files-1.1/android-scalablevideoview-1.0.4.aar/12d4f8a9e943d258d8c70e39834e9e6c/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:transition:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/b7c1cf810ab9f213be4538b34bbe4aa0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c2036603607ab52cfe1bc863571642d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c864bb618fc4ebfc0be9162967c537e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f6715a9c0269a7fd8380701508c34511/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2d0779e438f99f4d8229256f5546e368/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/5b9a536ef3a592846ddcc3bb1c20a976/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/0196b7bf6aff6f6c9f5cab2824ae1866/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3c77a1d72c5fca618e6c2aa4bd27f426/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/29fc54f8de232513a847cedd9b237dbb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7d561b3e45bcf1195f9382a8cee1b206/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/dd30cb8ef356fa8413cff9d86d8dd7ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/6dbe84a6cf0f0e6e50ffb7ec3c0ae5da/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/f82af46159648af4f6e4a135b1c2173c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e25ea2aef026f68ab321f55f3c285854/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f2c65bba9efbb85f8ef200e3c19f920e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0ba32effd4188516ac8f08c0b9867591/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/55360df88eeccc84a6b58749c94e2fd3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/const/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5d21716761283795589fc389f3098e63/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/6da18ba2cec14c6fddb5e49ff1d06dfc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c17427a66d34eabea06ce7d46f7cad8e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/ec76e6186d85795291a415463cafe745/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/const/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7c3d14112a9567f91c589543b72d75e3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/const/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0b8b09da026d4026fbab3f4edc7c11a3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/const/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/228824bc5a859675e724905dd010f589/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/const/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1670def5bb4cd7a2e957c7ae637cecfd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/55195b42659b904221fc326c7a097215/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/const/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/cf4470a65d97f92d163765431858af0c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/const/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/689483f5da93504798065b1ab2aff458/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/const/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/6bada895bd8b1326ed60bfb9766fccbb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/const/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/3bd5e6999a5481d546e16dd1208593bc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/const/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/d235e80b00224206d4e9d441a9c422a1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/const/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/47f045b7ac7c409aa0e536893fda2ce2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/const/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/6f82da77130cd62d80ed78210d2c2df9/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/const/Documents/Feture/Movie/android/app/src/debug/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/const/Documents/Feture/Movie/android/app/src/debug/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/const/Documents/Feture/Movie/android/app/src/debug/AndroidManifest.xml:2:1-11:12
+	package
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:2:3-22
+		INJECTED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:2:3-22
+		INJECTED from /Users/const/Documents/Feture/Movie/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/const/Documents/Feture/Movie/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/const/Documents/Feture/Movie/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-image-crop-picker] /Users/const/Documents/Feture/Movie/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-image-crop-picker] /Users/const/Documents/Feture/Movie/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-device-info] /Users/const/Documents/Feture/Movie/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20:19
+MERGED from [:react-native-device-info] /Users/const/Documents/Feture/Movie/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20:19
+MERGED from [:react-native-splash-screen] /Users/const/Documents/Feture/Movie/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /Users/const/Documents/Feture/Movie/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native:0.59.4] /Users/const/.gradle/caches/transforms-1/files-1.1/react-native-0.59.4.aar/e9629186400dc15e81b9fa7f79e4e552/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.4] /Users/const/.gradle/caches/transforms-1/files-1.1/react-native-0.59.4.aar/e9629186400dc15e81b9fa7f79e4e552/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f2c65bba9efbb85f8ef200e3c19f920e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f2c65bba9efbb85f8ef200e3c19f920e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0ba32effd4188516ac8f08c0b9867591/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0ba32effd4188516ac8f08c0b9867591/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/const/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/47f045b7ac7c409aa0e536893fda2ce2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/const/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/47f045b7ac7c409aa0e536893fda2ce2/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f2c65bba9efbb85f8ef200e3c19f920e/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/debug/AndroidManifest.xml:10:75-114
+	android:roundIcon
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/debug/AndroidManifest.xml:10:54-74
+	android:icon
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/debug/AndroidManifest.xml:10:18-53
+	android:name
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.movie.MainActivity
+ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_async-storage] /Users/const/Documents/Feture/Movie/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/const/Documents/Feture/Movie/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-crop-picker] /Users/const/Documents/Feture/Movie/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-crop-picker] /Users/const/Documents/Feture/Movie/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-device-info] /Users/const/Documents/Feture/Movie/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] /Users/const/Documents/Feture/Movie/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/const/Documents/Feture/Movie/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/const/Documents/Feture/Movie/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-orientation] /Users/const/Documents/Feture/Movie/node_modules/react-native-orientation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-orientation] /Users/const/Documents/Feture/Movie/node_modules/react-native-orientation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] /Users/const/Documents/Feture/Movie/node_modules/react-native-video/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] /Users/const/Documents/Feture/Movie/node_modules/react-native-video/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/const/Documents/Feture/Movie/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/const/Documents/Feture/Movie/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/const/Documents/Feture/Movie/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/const/Documents/Feture/Movie/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/const/Documents/Feture/Movie/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/const/Documents/Feture/Movie/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.4] /Users/const/.gradle/caches/transforms-1/files-1.1/react-native-0.59.4.aar/e9629186400dc15e81b9fa7f79e4e552/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.4] /Users/const/.gradle/caches/transforms-1/files-1.1/react-native-0.59.4.aar/e9629186400dc15e81b9fa7f79e4e552/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/const/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/3b22ff764bd2986f966685f6bf28d0ff/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/const/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/3b22ff764bd2986f966685f6bf28d0ff/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8787fa986027b5a2a89a528330fb3681/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8787fa986027b5a2a89a528330fb3681/AndroidManifest.xml:20:5-44
+MERGED from [:react-native-linear-gradient] /Users/const/Documents/Feture/Movie/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/const/Documents/Feture/Movie/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /Users/const/.gradle/caches/transforms-1/files-1.1/android-scalablevideoview-1.0.4.aar/12d4f8a9e943d258d8c70e39834e9e6c/AndroidManifest.xml:8:5-10:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /Users/const/.gradle/caches/transforms-1/files-1.1/android-scalablevideoview-1.0.4.aar/12d4f8a9e943d258d8c70e39834e9e6c/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:transition:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/b7c1cf810ab9f213be4538b34bbe4aa0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/b7c1cf810ab9f213be4538b34bbe4aa0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c2036603607ab52cfe1bc863571642d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c2036603607ab52cfe1bc863571642d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c864bb618fc4ebfc0be9162967c537e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c864bb618fc4ebfc0be9162967c537e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f6715a9c0269a7fd8380701508c34511/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f6715a9c0269a7fd8380701508c34511/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2d0779e438f99f4d8229256f5546e368/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2d0779e438f99f4d8229256f5546e368/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/5b9a536ef3a592846ddcc3bb1c20a976/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/5b9a536ef3a592846ddcc3bb1c20a976/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/0196b7bf6aff6f6c9f5cab2824ae1866/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/0196b7bf6aff6f6c9f5cab2824ae1866/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3c77a1d72c5fca618e6c2aa4bd27f426/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3c77a1d72c5fca618e6c2aa4bd27f426/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/29fc54f8de232513a847cedd9b237dbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/29fc54f8de232513a847cedd9b237dbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7d561b3e45bcf1195f9382a8cee1b206/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7d561b3e45bcf1195f9382a8cee1b206/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/dd30cb8ef356fa8413cff9d86d8dd7ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/dd30cb8ef356fa8413cff9d86d8dd7ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/6dbe84a6cf0f0e6e50ffb7ec3c0ae5da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/6dbe84a6cf0f0e6e50ffb7ec3c0ae5da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/f82af46159648af4f6e4a135b1c2173c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/f82af46159648af4f6e4a135b1c2173c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e25ea2aef026f68ab321f55f3c285854/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e25ea2aef026f68ab321f55f3c285854/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f2c65bba9efbb85f8ef200e3c19f920e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f2c65bba9efbb85f8ef200e3c19f920e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0ba32effd4188516ac8f08c0b9867591/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0ba32effd4188516ac8f08c0b9867591/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/55360df88eeccc84a6b58749c94e2fd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/55360df88eeccc84a6b58749c94e2fd3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/const/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5d21716761283795589fc389f3098e63/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/const/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5d21716761283795589fc389f3098e63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/6da18ba2cec14c6fddb5e49ff1d06dfc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/6da18ba2cec14c6fddb5e49ff1d06dfc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c17427a66d34eabea06ce7d46f7cad8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c17427a66d34eabea06ce7d46f7cad8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/ec76e6186d85795291a415463cafe745/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/ec76e6186d85795291a415463cafe745/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/const/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7c3d14112a9567f91c589543b72d75e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/const/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7c3d14112a9567f91c589543b72d75e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/const/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0b8b09da026d4026fbab3f4edc7c11a3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/const/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0b8b09da026d4026fbab3f4edc7c11a3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/const/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/228824bc5a859675e724905dd010f589/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/const/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/228824bc5a859675e724905dd010f589/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/const/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1670def5bb4cd7a2e957c7ae637cecfd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/const/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1670def5bb4cd7a2e957c7ae637cecfd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/55195b42659b904221fc326c7a097215/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/const/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/55195b42659b904221fc326c7a097215/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/const/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/cf4470a65d97f92d163765431858af0c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/const/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/cf4470a65d97f92d163765431858af0c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/const/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/689483f5da93504798065b1ab2aff458/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/const/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/689483f5da93504798065b1ab2aff458/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/const/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/6bada895bd8b1326ed60bfb9766fccbb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/const/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/6bada895bd8b1326ed60bfb9766fccbb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/const/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/3bd5e6999a5481d546e16dd1208593bc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/const/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/3bd5e6999a5481d546e16dd1208593bc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/const/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/d235e80b00224206d4e9d441a9c422a1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/const/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/d235e80b00224206d4e9d441a9c422a1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/const/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/47f045b7ac7c409aa0e536893fda2ce2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/const/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/47f045b7ac7c409aa0e536893fda2ce2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/const/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/6f82da77130cd62d80ed78210d2c2df9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/const/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/6f82da77130cd62d80ed78210d2c2df9/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/const/Documents/Feture/Movie/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/const/Documents/Feture/Movie/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/const/Documents/Feture/Movie/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/const/Documents/Feture/Movie/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/const/Documents/Feture/Movie/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/const/Documents/Feture/Movie/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.CAMERA
+ADDED from /Users/const/Documents/Feture/Movie/android/app/src/debug/AndroidManifest.xml:6:5-64
+	android:name
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/debug/AndroidManifest.xml:6:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/const/Documents/Feture/Movie/android/app/src/debug/AndroidManifest.xml:7:5-85
+	android:required
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/debug/AndroidManifest.xml:7:58-82
+	android:name
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/debug/AndroidManifest.xml:7:19-57
+uses-feature#android.hardware.camera.front
+ADDED from /Users/const/Documents/Feture/Movie/android/app/src/debug/AndroidManifest.xml:8:5-91
+	android:required
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/debug/AndroidManifest.xml:8:64-88
+	android:name
+		ADDED from /Users/const/Documents/Feture/Movie/android/app/src/debug/AndroidManifest.xml:8:19-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:react-native-image-crop-picker] /Users/const/Documents/Feture/Movie/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/const/Documents/Feture/Movie/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-78
+provider#android.support.v4.content.FileProvider
+ADDED from [:react-native-image-crop-picker] /Users/const/Documents/Feture/Movie/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-21:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] /Users/const/Documents/Feture/Movie/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] /Users/const/Documents/Feture/Movie/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] /Users/const/Documents/Feture/Movie/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/const/Documents/Feture/Movie/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] /Users/const/Documents/Feture/Movie/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-20:58
+	android:resource
+		ADDED from [:react-native-image-crop-picker] /Users/const/Documents/Feture/Movie/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:17-55
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/const/Documents/Feture/Movie/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] /Users/const/Documents/Feture/Movie/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:9-25:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] /Users/const/Documents/Feture/Movie/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/const/Documents/Feture/Movie/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-60
+receiver#com.learnium.RNDeviceInfo.RNDeviceReceiver
+ADDED from [:react-native-device-info] /Users/const/Documents/Feture/Movie/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-19:20
+	android:enabled
+		ADDED from [:react-native-device-info] /Users/const/Documents/Feture/Movie/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-35
+	android:exported
+		ADDED from [:react-native-device-info] /Users/const/Documents/Feture/Movie/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from [:react-native-device-info] /Users/const/Documents/Feture/Movie/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-70
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] /Users/const/Documents/Feture/Movie/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] /Users/const/Documents/Feture/Movie/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-79
+	android:name
+		ADDED from [:react-native-device-info] /Users/const/Documents/Feture/Movie/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:25-76
